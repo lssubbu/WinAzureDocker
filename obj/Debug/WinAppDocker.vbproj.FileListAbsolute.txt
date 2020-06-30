@@ -1,0 +1,12 @@
+C:\OurHome\LSS\Personal\Projects_Test\WinAppDocker\bin\Debug\WinAppDocker.exe.config
+C:\OurHome\LSS\Personal\Projects_Test\WinAppDocker\bin\Debug\WinAppDocker.exe
+C:\OurHome\LSS\Personal\Projects_Test\WinAppDocker\bin\Debug\WinAppDocker.pdb
+C:\OurHome\LSS\Personal\Projects_Test\WinAppDocker\bin\Debug\WinAppDocker.xml
+C:\OurHome\LSS\Personal\Projects_Test\WinAppDocker\obj\Debug\WinAppDocker.vbprojAssemblyReference.cache
+C:\OurHome\LSS\Personal\Projects_Test\WinAppDocker\obj\Debug\WinAppDocker.Form1.resources
+C:\OurHome\LSS\Personal\Projects_Test\WinAppDocker\obj\Debug\WinAppDocker.Resources.resources
+C:\OurHome\LSS\Personal\Projects_Test\WinAppDocker\obj\Debug\WinAppDocker.vbproj.GenerateResource.cache
+C:\OurHome\LSS\Personal\Projects_Test\WinAppDocker\obj\Debug\WinAppDocker.vbproj.CoreCompileInputs.cache
+C:\OurHome\LSS\Personal\Projects_Test\WinAppDocker\obj\Debug\WinAppDocker.exe
+C:\OurHome\LSS\Personal\Projects_Test\WinAppDocker\obj\Debug\WinAppDocker.xml
+C:\OurHome\LSS\Personal\Projects_Test\WinAppDocker\obj\Debug\WinAppDocker.pdb
